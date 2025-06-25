@@ -5,7 +5,7 @@
 - 📫 How to reach me Tera.Cell.0101@gmail.com.
 - 😄 Pronouns: he/him (though I don't really care about pronouns).
 - ⚡ Fun fact: I had a cat that once scratched my eye, almost blinding my right eye. Thankfully, it has healed since then.
-- Current Programming Languages: C, C++, Python, Assembly, R, MATHLAB, HTML, CSS, BootStrap Javascript, Java, and SQL.
+- Current Programming Languages: C, C++, Python, Assembly, R, MATHLAB, HTML, CSS, BootStrap, Javascript, Java, and SQL.
 
 <!---
 Raven-04/Raven-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
