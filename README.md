@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Why hello there, My name is Mohamed Alawadhi 🐦‍⬛</h1>
   <p><b>Software Developer | AI Engineer | Data Scientist</b></p>
+  <p> <img src="https://komarev.com/ghpvc/?username=raven-04&label=Profile%20views&color=b22222&style=for-the-badge" alt="raven-04" /> </p>
 </div>
 
 <p align="center">
@@ -22,11 +23,13 @@
 🌐 <b>Socials:</b>
 --
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PjvnmeTV)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raven_dood) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ma00) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Upstairs_Key_6563/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Marsh-the-sasster) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imohd.aak@gmail.com) 
+<p align="left">
+  <a href="https://linkedin.com/in/ma00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ma00" height="40" width="50" /></a>
+  <a href="https://discord.gg/https://discord.gg/PjvnmeTV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PjvnmeTV" height="40" width="50" /></a>
+  <a href="https://codepen.io/https://codepen.io/marsh-the-sasster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/marsh-the-sasster" height="40" width="50" /></a>
+  <a href="https://instagram.com/raven_dood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raven_dood" height="40" width="50" /></a>
+  <a href="https://www.reddit.com/user/Upstairs_Key_6563/" target="blank"><img align="center" src="https://images.seeklogo.com/logo-png/40/2/reddit-logo-png_seeklogo-409489.png" alt="Upstairs_Key_6563" height="40" width="40" /></a>
+</p>
 
 <br>
 
@@ -134,23 +137,3 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raven-04&label=Profile%20views&color=0e75b6&style=flat" alt="raven-04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raven-04" alt="raven-04" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/marsh-the-sasster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/marsh-the-sasster" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ma00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ma00/" height="30" width="40" /></a>
-<a href="https://instagram.com/raven_dood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raven_dood" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/PjvnmeTV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PjvnmeTV" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raven-04&show_icons=true&locale=en&layout=compact" alt="raven-04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raven-04&show_icons=true&locale=en" alt="raven-04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raven-04&" alt="raven-04" /></p>
-
