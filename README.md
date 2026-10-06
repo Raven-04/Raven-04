@@ -129,6 +129,8 @@
   
   ![](https://streak-stats.demolab.com/?user=Raven-04&theme=aura_dark&hide_border=false)<br/>
 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raven-04&theme=github_dark&animation=rgb-soft)<br/>
+
 </div>
 
 <br>
