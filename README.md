@@ -18,7 +18,7 @@
 - 🌱 I am currently unemployed and looking for a job.<br>
 - 💞️ I’m looking to collaborate on personal/collaborative projects to hopefully learn more about coding and computer science.<br>
 - 📫 How to reach me imohd.aak@gmail.com.<br>
-- ⚡ Fun fact: I had a cat that once scratched my eye, almost blinding my right eye. Thankfully, it has healed since then.<br>
+- ⚡ Fun fact: I had a cat that once scratched my eye, almost blinding my right eye (he was an American Wirehair cat named Luca). Thankfully, it has healed since then.<br>
 
 <br>
 
