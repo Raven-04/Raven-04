@@ -152,7 +152,7 @@
   <img width="300" height="300" alt="octocat-1791225381312" src="https://github.com/user-attachments/assets/4102afab-94e1-4b06-8e6a-2851e3483a4d" />
   <br>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4982&pause=1000&color=B22222&repeat=false&width=435&lines=I+wish+you+a+very+lovely+day+%3A%3E)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&duration=5000&pause=1000&color=B22222&repeat=true&width=455&lines=I+wish+you+a+wondrous+and+lovely+day+%3A%3E)](https://git.io/typing-svg)
 
 
 </div>
