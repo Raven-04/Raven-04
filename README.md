@@ -156,10 +156,4 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raven-04/raven-04/gitascii/profiles/default/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raven-04/raven-04/gitascii/profiles/default/light.svg">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/raven-04/raven-04/gitascii/profiles/default/dark.svg" width="100%">
-</picture>
-
 <img src="https://camo.githubusercontent.com/867f19c7bfcf9f2610f577ab09be08c422696b4131babce4a6f408a0108cec99/68747470733a2f2f726561646d652d7376672d776176652d646976696465722d67656e657261746f722e76657263656c2e6170702f776176653f747970653d73696e652677696474683d31323030266865696768743d373026616d706c69747564653d3230266672657175656e63793d32266c61796572733d3326636f6c6f725f746f703d30303030303026636f6c6f725f626f74746f6d3d643933643337266f7061636974793d3126666c69703d66616c7365266772616469656e743d66616c7365266d6972726f723d7472756526616e696d6174653d747275652673706565643d3626746578743d26746578745f626f74746f6d3d26746578745f636f6c6f723d66666666666626746578745f626f74746f6d5f636f6c6f723d66663730373026746578745f73697a653d31303226746578745f626f74746f6d5f73697a653d333126746578745f7374796c653d626f6c6426746578745f7374726f6b655f636f6c6f723d30643131313726746578745f7374726f6b655f77696474683d313026746578745f7363616c655f783d31303026746578745f7363616c655f793d31303026746578745f783d353026746578745f793d343526746578745f6761703d353026746578745f616c69676e3d6d6964646c65" alt="Wave divider" data-canonical-src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&amp;width=1200&amp;height=70&amp;amplitude=20&amp;frequency=2&amp;layers=3&amp;color_top=000000&amp;color_bottom=d93d37&amp;opacity=1&amp;flip=false&amp;gradient=false&amp;mirror=true&amp;animate=true&amp;speed=6&amp;text=&amp;text_bottom=&amp;text_color=ffffff&amp;text_bottom_color=ff7070&amp;text_size=102&amp;text_bottom_size=31&amp;text_style=bold&amp;text_stroke_color=0d1117&amp;text_stroke_width=10&amp;text_scale_x=100&amp;text_scale_y=100&amp;text_x=50&amp;text_y=45&amp;text_gap=50&amp;text_align=middle" style="max-width: 100%;">
