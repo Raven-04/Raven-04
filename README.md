@@ -3,7 +3,7 @@
 <div align="center">  
   <h1>Why hello there, My name is Mohamed Alawadhi 🐦‍⬛</h1>
   <p><b>Software Developer | AI Engineer | Data Scientist | Game Tester</b></p>
-  <p> <img src="https://komarev.com/ghpvc/?username=raven-04&label=Profile%20views&color=b22222&style=for-the-badge" alt="raven-04" /> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=Raven-04&label=Profile%20views&color=b22222&style=for-the-badge" alt="raven-04" /> </p>
 </div>
 
 <p align="center">
